@@ -20,8 +20,10 @@
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link" action="http://www.example.com/"/>
-			<acme:menu-suboption code="master.menu.anonymous.guidizgil-favourite-link" action="https://www.kernel.org/"/>
-			<acme:menu-suboption code="master.menu.anonymous.geobog-favourite-link" action="https://www.youtube.com/"/>	
+      <acme:menu-suboption code="master.menu.anonymous.guidizgil-favourite-link" action="https://www.kernel.org/"/>
+			<acme:menu-suboption code="master.menu.anonymous.carmunper1-favourite-link" action="https://www.imdb.com/"/>
+      <acme:menu-suboption code="master.menu.anonymous.frarodper4-favourite-link" action="https://stackoverflow.com/"/>
+      <acme:menu-suboption code="master.menu.anonymous.geobog-favourite-link" action="https://www.youtube.com/"/>	
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">

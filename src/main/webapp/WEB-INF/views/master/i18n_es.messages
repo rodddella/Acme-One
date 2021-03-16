@@ -30,6 +30,8 @@ master.menu.sign-out = Salir
 master.menu.anonymous = Anónimo
 master.menu.anonymous.favourite-link = Enlace favorito
 master.menu.anonymous.guidizgil-favourite-link = Enlace de Diz
+master.menu.anonymous.carmunper1-favourite-link = Enlace de Muñoz
+master.menu.anonymous.frarodper4-favourite-link = Enlace de Rodríguez
 
 # master.menu.administrator ###################################################
 
@@ -44,7 +46,6 @@ master.menu.administrator.shutdown = Parar el sistema
 
 master.menu.provider = Proveedor
 master.menu.provider.favourite-link = Enlace favorito
-master.menu.anonymous.carmunper1-favourite-link = Enlace de Muñoz
 
 # master.menu.consumer ##########################################################
 

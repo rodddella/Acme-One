@@ -9,4 +9,5 @@
 # they accept any liabilities with respect to them.
 
 - Rafael Corchuelo (corchu@us.es)
+- Guillermo Diz (guidizgil@alum.us.es)
 - George Laurentiu Bogdan (geobog@alum.us.es)
